@@ -13,6 +13,6 @@
 - Исследовательский анализ данных
   - Построение различных графиков
 ## Используемые библиотеки
-*pandas*\
-*matplotlib.pyplot*\
-*numpy*
+- *pandas*
+- *matplotlib.pyplot*
+- *numpy*
